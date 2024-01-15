@@ -1,4 +1,4 @@
-# Church Connect
+# MotionGuard
 
 MotionGuard, an innovative motion detection software that adds an extra layer of security to your environment. With MotionGuard, you can transform any camera-enabled device into a vigilant watchdog, alerting you to potential intruders with a combination of sound and visuals.
 
@@ -13,7 +13,7 @@ pip3 install -r requirements
 
 ## Usage
 
-```React Native
+```Python
 python3 motiondetection.py
 
 ```
