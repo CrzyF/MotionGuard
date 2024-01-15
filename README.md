@@ -8,7 +8,7 @@ MotionGuard, an innovative motion detection software that adds an extra layer of
 
 ```bash
 git clone "https://github.com/CrzyF/MotionGuard.git"
-pip3 install -r requirements
+pip3 install -r requirements.txt
 ```
 
 ## Usage
