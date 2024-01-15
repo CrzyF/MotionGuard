@@ -7,7 +7,7 @@ MotionGuard, an innovative motion detection software that adds an extra layer of
 ## Installation
 
 ```bash
-git clone "https://github.com/CrzyF/ChurchConnectApp.git"
+git clone "https://github.com/CrzyF/MotionGuard.git"
 pip3 install -r requirements
 ```
 
