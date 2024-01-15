@@ -2,7 +2,7 @@
 
 MotionGuard, an innovative motion detection software that adds an extra layer of security to your environment. With MotionGuard, you can transform any camera-enabled device into a vigilant watchdog, alerting you to potential intruders with a combination of sound and visuals.
 
-![app screenshot](https://github.com/CrzyF/MotionGuard/blob/main/photos/motiondetection.gif](https://github.com/CrzyF/MotionGuard/blob/main/photos/motiondetection.gif)
+![app screenshot](https://github.com/CrzyF/MotionGuard/blob/main/photos/motiondetection.gif)
 
 ## Installation
 
