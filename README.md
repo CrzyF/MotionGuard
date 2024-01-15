@@ -1,1 +1,30 @@
-# motion_detector
+# Church Connect
+
+MotionGuard, an innovative motion detection software that adds an extra layer of security to your environment. With MotionGuard, you can transform any camera-enabled device into a vigilant watchdog, alerting you to potential intruders with a combination of sound and visuals.
+
+![app screenshot](https://github.com/CrzyF/ChurchConnectApp/blob/main/assets/preview.png)
+
+## Installation
+
+```bash
+git clone "https://github.com/CrzyF/ChurchConnectApp.git"
+pip3 install -r requirements
+```
+
+## Usage
+
+```React Native
+python3 motiondetection.py
+
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
